@@ -1,0 +1,1813 @@
+[
+  {
+    "packageName": "com.miui.accessibility",
+    "displayName": "Accessibility",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.systemui.accessibility.accessibilitymenu",
+    "displayName": "Accessibilitymenu",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.account",
+    "displayName": "Account",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.mainline.adservices",
+    "displayName": "Adservices",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.aicore",
+    "displayName": "Aicore",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.aicr",
+    "displayName": "Aicr",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.aiservice",
+    "displayName": "Aiservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.analytics",
+    "displayName": "Analytics",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.systemui.overlay.devices.android",
+    "displayName": "Android",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "android",
+    "displayName": "Android",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.aod",
+    "displayName": "Aod",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.aon",
+    "displayName": "Aon",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.adservices.api",
+    "displayName": "Api",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.appsearch.apk",
+    "displayName": "Apk",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mi.appfinder",
+    "displayName": "Appfinder",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.facebook.appmanager",
+    "displayName": "Appmanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.microsoft.appmanager",
+    "displayName": "Appmanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.as",
+    "displayName": "As",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.asi",
+    "displayName": "Asi",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mediatek.atmwifimeta",
+    "displayName": "Atmwifimeta",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.miui.audiomonitor",
+    "displayName": "Audiomonitor",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.companiondevicemanager.auto_generated_characteristics_rro",
+    "displayName": "Auto Generated Characteristics Rro",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.telephony.auto_generated_characteristics_rro",
+    "displayName": "Auto Generated Characteristics Rro",
+    "category": "other"
+  },
+  {
+    "packageName": "android.auto_generated_characteristics_rro",
+    "displayName": "Auto Generated Characteristics Rro",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.phone.auto_generated_characteristics_rro",
+    "displayName": "Auto Generated Characteristics Rro",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.avatarpicker",
+    "displayName": "Avatarpicker",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.backup",
+    "displayName": "Backup",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.backupconfirm",
+    "displayName": "Backupconfirm",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.health.connect.backuprestore",
+    "displayName": "Backuprestore",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.apps.bard",
+    "displayName": "Bard",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.barrage",
+    "displayName": "Barrage",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.dreams.basic",
+    "displayName": "Basic",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.bips",
+    "displayName": "Bips",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.blockednumber",
+    "displayName": "Blockednumber",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.bluetooth",
+    "displayName": "Bluetooth",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.bluetooth",
+    "displayName": "Bluetooth",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.bluetoothmidiservice",
+    "displayName": "Bluetoothmidiservice",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.bookmarkprovider",
+    "displayName": "Bookmarkprovider",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.syncadapters.calendar",
+    "displayName": "Calendar",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.providers.calendar",
+    "displayName": "Calendar",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.calllogbackup",
+    "displayName": "Calllogbackup",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.callrecorder",
+    "displayName": "Callrecorder",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.camera",
+    "displayName": "Camera",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.cameraextensions",
+    "displayName": "Cameraextensions",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.cameramind",
+    "displayName": "Cameramind",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.cameratools",
+    "displayName": "Cameratools",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.captiveportallogin",
+    "displayName": "Captiveportallogin",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.carrierconfig",
+    "displayName": "Carrierconfig",
+    "category": "other"
+  },
+  {
+    "packageName": "com.bsp.catchlog",
+    "displayName": "Catchlog",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.cellbroadcastreceiver",
+    "displayName": "Cellbroadcastreceiver",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.cellbroadcastreceiver",
+    "displayName": "Cellbroadcastreceiver",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.cellbroadcastservice",
+    "displayName": "Cellbroadcastservice",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mediatek.cellbroadcastuiresoverlay",
+    "displayName": "Cellbroadcastuiresoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.certinstaller",
+    "displayName": "Certinstaller",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.chrome",
+    "displayName": "Chrome",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.overlay.circletosearch",
+    "displayName": "Circletosearch",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.cit",
+    "displayName": "Cit",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.cleaner",
+    "displayName": "Cleaner",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.cloudbackup",
+    "displayName": "Cloudbackup",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.cloudservice",
+    "displayName": "Cloudservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.common",
+    "displayName": "Common",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.comms",
+    "displayName": "Comms",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.companiondevicemanager",
+    "displayName": "Companiondevicemanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.configupdater",
+    "displayName": "Configupdater",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.mishare.connectivity",
+    "displayName": "Connectivity",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.providers.contactkeys",
+    "displayName": "Contactkeys",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.contacts",
+    "displayName": "Contacts",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.providers.contacts",
+    "displayName": "Contacts",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.contacts",
+    "displayName": "Contacts",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.healthconnect.controller",
+    "displayName": "Controller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.core",
+    "displayName": "Core",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.internal.display.cutout.emulation.corner",
+    "displayName": "Corner",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.credentialmanager",
+    "displayName": "Credentialmanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.microsoftsdk.crossdeviceservicebroker",
+    "displayName": "Crossdeviceservicebroker",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.cts.ctsshim",
+    "displayName": "Ctsshim",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.cts.priv.ctsshim",
+    "displayName": "Ctsshim",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.miwallpaper.overlay.customize",
+    "displayName": "Customize",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.wallpaper.overlay.customize",
+    "displayName": "Customize",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.daemon",
+    "displayName": "Daemon",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.DeviceAsWebcam",
+    "displayName": "Deviceaswebcam",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.devicediagnostics",
+    "displayName": "Devicediagnostics",
+    "category": "other"
+  },
+  {
+    "packageName": "com.microsoft.deviceintegrationservice",
+    "displayName": "Deviceintegrationservice",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.devicelockcontroller",
+    "displayName": "Devicelockcontroller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.devicelockcontroller",
+    "displayName": "Devicelockcontroller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.dialer",
+    "displayName": "Dialer",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.wifi.dialog",
+    "displayName": "Dialog",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.wifi.dialog",
+    "displayName": "Dialog",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.discover",
+    "displayName": "Discover",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.apps.docs",
+    "displayName": "Docs",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.documentsui",
+    "displayName": "Documentsui",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.documentsui",
+    "displayName": "Documentsui",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.internal.display.cutout.emulation.double",
+    "displayName": "Double",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.downloads",
+    "displayName": "Downloads",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.duraspeed",
+    "displayName": "Duraspeed",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.dynsystem",
+    "displayName": "Dynsystem",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miuix.editor",
+    "displayName": "Editor",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.egg",
+    "displayName": "Egg",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.emergency",
+    "displayName": "Emergency",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.microdroid.empty_payload",
+    "displayName": "Empty Payload",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.role.notes.enabled",
+    "displayName": "Enabled",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.engineermode",
+    "displayName": "Engineermode",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.miui.autoui.ext",
+    "displayName": "Ext",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.externalstorage",
+    "displayName": "Externalstorage",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.extraphoto",
+    "displayName": "Extraphoto",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.federatedcompute",
+    "displayName": "Federatedcompute",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.finddevice",
+    "displayName": "Finddevice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+    "displayName": "Forframework",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.captiveportallogin.forframework",
+    "displayName": "Forframework",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.healthfitness.forframework",
+    "displayName": "Forframework",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.modulemetadata.forframework",
+    "displayName": "Forframework",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mediatek.frameworkresoverlay",
+    "displayName": "Frameworkresoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.FrameworkResOverlayExt",
+    "displayName": "Frameworkresoverlayext",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.location.fused",
+    "displayName": "Fused",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.gallery",
+    "displayName": "Gallery",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.mt6899.gamedriver",
+    "displayName": "Gamedriver",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.gbaservice",
+    "displayName": "Gbaservice",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.google.android.projection.gearhead",
+    "displayName": "Gearhead",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.geotz",
+    "displayName": "Geotz",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.internal.systemui.navbar.gestural",
+    "displayName": "Gestural",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mi.globalbrowser",
+    "displayName": "Globalbrowser",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mi.android.globalFileexplorer",
+    "displayName": "Globalfileexplorer",
+    "category": "xiaomi",
+    "icon": "AppStore/0ce225f930da3e964903b49ace7cc034d9540c338"
+  },
+  {
+    "packageName": "com.mi.android.globallauncher",
+    "displayName": "Globallauncher",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mi.globallayout",
+    "displayName": "Globallayout",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mi.globalminusscreen",
+    "displayName": "Globalminusscreen",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.gm",
+    "displayName": "Gm",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.gms",
+    "displayName": "Gms",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.overlay.gmscontactprovider",
+    "displayName": "Gmscontactprovider",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.overlay.gmssettingprovider",
+    "displayName": "Gmssettingprovider",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.overlay.gmssettings",
+    "displayName": "Gmssettings",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.overlay.gmstelecomm",
+    "displayName": "Gmstelecomm",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.overlay.gmstelephony",
+    "displayName": "Gmstelephony",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.networkstack.tethering.googleoverlay",
+    "displayName": "Googleoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.google.android.googlequicksearchbox",
+    "displayName": "Googlequicksearchbox",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mediatek.networkstack.gooverlay",
+    "displayName": "Gooverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.gsa",
+    "displayName": "Gsa",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.gsf",
+    "displayName": "Gsf",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.guardprovider",
+    "displayName": "Guardprovider",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.phone.carriers.overlay.h3g",
+    "displayName": "H3g",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mi.healthglobal",
+    "displayName": "Healthglobal",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.gms.location.history",
+    "displayName": "History",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.internal.display.cutout.emulation.hole",
+    "displayName": "Hole",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.htmlviewer",
+    "displayName": "Htmlviewer",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.hypercomm",
+    "displayName": "Hypercomm",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.ims",
+    "displayName": "Ims",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.imsserviceentitlement",
+    "displayName": "Imsserviceentitlement",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.incallui",
+    "displayName": "Incallui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.incallui",
+    "displayName": "Incallui",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.inputdevices",
+    "displayName": "Inputdevices",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.settings.intelligence",
+    "displayName": "Intelligence",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.intentresolver",
+    "displayName": "Intentresolver",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.joyose",
+    "displayName": "Joyose",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.keychain",
+    "displayName": "Keychain",
+    "category": "other"
+  },
+  {
+    "packageName": "com.wdstechnology.android.kryten",
+    "displayName": "Kryten",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.inputmethod.latin",
+    "displayName": "Latin",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.wallpaper.livepicker",
+    "displayName": "Livepicker",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.localtransport",
+    "displayName": "Localtransport",
+    "category": "other"
+  },
+  {
+    "packageName": "com.debug.loggerui",
+    "displayName": "Loggerui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.location.lppe.main",
+    "displayName": "Main",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.managedprovisioning",
+    "displayName": "Managedprovisioning",
+    "category": "other"
+  },
+  {
+    "packageName": "com.tiktok.manager",
+    "displayName": "Manager",
+    "category": "other"
+  },
+  {
+    "packageName": "org.ifaa.aidl.manager",
+    "displayName": "Manager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.apps.maps",
+    "displayName": "Maps",
+    "category": "google"
+  },
+  {
+    "packageName": "com.mediatek.mdmconfig",
+    "displayName": "Mdmconfig",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.mdmlsample",
+    "displayName": "Mdmlsample",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.providers.media",
+    "displayName": "Media",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek",
+    "displayName": "Mediatek",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.mediaviewer",
+    "displayName": "Mediaviewer",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.apps.messaging",
+    "displayName": "Messaging",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.mi_connect_service",
+    "displayName": "Mi Connect Service",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.micloudsync",
+    "displayName": "Micloudsync",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.mirror",
+    "displayName": "Mirror",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.miservice",
+    "displayName": "Miservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.misettings",
+    "displayName": "Misettings",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.misightservice",
+    "displayName": "Misightservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.misound",
+    "displayName": "Misound",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.providers.telephony.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.networkstack.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.cellbroadcastservice.overlay.miui",
+    "displayName": "Miui",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.settings.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.cellbroadcastreceiver.overlay.miui",
+    "displayName": "Miui",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.carrierconfig.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.lbe.security.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.server.telecom.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.phone.cust.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.phone.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.systemui.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.stk.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.inputsettings.overlay.miui",
+    "displayName": "Miui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.miwallpaper",
+    "displayName": "Miwallpaper",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.mms",
+    "displayName": "Mms",
+    "category": "other"
+  },
+  {
+    "packageName": "android.autoinstalls.config.Xiaomi.model",
+    "displayName": "Model",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.providers.media.module",
+    "displayName": "Module",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.modulemetadata",
+    "displayName": "Modulemetadata",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.mtb",
+    "displayName": "Mtb",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.location.mtkgeofence",
+    "displayName": "Mtkgeofence",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.MtkSettingsResOverlay",
+    "displayName": "Mtksettingsresoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.MtkTelephonyServiceResOverlay",
+    "displayName": "Mtktelephonyserviceresoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.mtp",
+    "displayName": "Mtp",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.musicfx",
+    "displayName": "Musicfx",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.networkstack",
+    "displayName": "Networkstack",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.nfc",
+    "displayName": "Nfc",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.networkstack.nongooverlay",
+    "displayName": "Nongooverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.miui.notification",
+    "displayName": "Notification",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.theme.font.notoserifsource",
+    "displayName": "Notoserifsource",
+    "category": "other"
+  },
+  {
+    "packageName": "com.novatek.novavis",
+    "displayName": "Novavis",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.hotwordenrollment.okgoogle",
+    "displayName": "Okgoogle",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.onetimeinitializer",
+    "displayName": "Onetimeinitializer",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.ons",
+    "displayName": "Ons",
+    "category": "other"
+  },
+  {
+    "packageName": "com.fingerprints.optical",
+    "displayName": "Optical",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.as.oss",
+    "displayName": "Oss",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.hotspot2.osulogin",
+    "displayName": "Osulogin",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.settings.rro.device.systemui.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.settings.rro.device.type.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.managedprovisioning.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.systemui.carriers.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.providers.settings.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.wifi.system.resources.overlay",
+    "displayName": "Overlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.bluetooth.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.wifi.system.mainline.resources.overlay",
+    "displayName": "Overlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.wifi.mainline.resources.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.se.resources.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.systemui.navigation.bar.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.settings.rro.device.hide.statusbar.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.networkstack.tethering.overlay",
+    "displayName": "Overlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.systemui.gesture.line.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "android.miui.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.wifi.resources.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.miwallpaper.config.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.networkstack.overlay",
+    "displayName": "Overlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.xiaomi.phone.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.bluetooth.rro.device.config.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.thememanager.customizethemeconfig.config.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.permissioncontroller.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.miwallpaper.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.wallpaper.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.system.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.systemui.devices.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.settings.rro.device.config.overlay",
+    "displayName": "Overlay",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "android.aosp.overlay",
+    "displayName": "Overlay",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.global.packageinstaller",
+    "displayName": "Packageinstaller",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.packageinstaller",
+    "displayName": "Packageinstaller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.pacprocessor",
+    "displayName": "Pacprocessor",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.partnerbookmarks",
+    "displayName": "Partnerbookmarks",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.partnersetup",
+    "displayName": "Partnersetup",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.compos.payload",
+    "displayName": "Payload",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.permissioncontroller",
+    "displayName": "Permissioncontroller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.permissioncontroller",
+    "displayName": "Permissioncontroller",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.personalsafety",
+    "displayName": "Personalsafety",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.phone",
+    "displayName": "Phone",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.phone",
+    "displayName": "Phone",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.photopicker",
+    "displayName": "Photopicker",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.photos",
+    "displayName": "Photos",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.apps.photos",
+    "displayName": "Photos",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.dreams.phototable",
+    "displayName": "Phototable",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.phrase",
+    "displayName": "Phrase",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.player",
+    "displayName": "Player",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "miui.systemui.plugin",
+    "displayName": "Plugin",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.powerkeeper",
+    "displayName": "Powerkeeper",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.printspooler",
+    "displayName": "Printspooler",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.provision",
+    "displayName": "Provision",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.proxyhandler",
+    "displayName": "Proxyhandler",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.qr",
+    "displayName": "Qr",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.printservice.recommendation",
+    "displayName": "Recommendation",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.apps.subscriptions.red",
+    "displayName": "Red",
+    "category": "google"
+  },
+  {
+    "packageName": "android.miui.poco.launcher.res",
+    "displayName": "Res",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.virtualmachine.res",
+    "displayName": "Res",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.uwb.resources",
+    "displayName": "Resources",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.safetycenter.resources",
+    "displayName": "Resources",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.connectivity.resources",
+    "displayName": "Resources",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.wifi.resources",
+    "displayName": "Resources",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.apps.restore",
+    "displayName": "Restore",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.rkpdapp",
+    "displayName": "Rkpdapp",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.rom",
+    "displayName": "Rom",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.apps.safetyhub",
+    "displayName": "Safetyhub",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.screenshot",
+    "displayName": "Screenshot",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.micloud.sdk",
+    "displayName": "Sdk",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.continuity.sdkapp",
+    "displayName": "Sdkapp",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.sdksandbox",
+    "displayName": "Sdksandbox",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.se",
+    "displayName": "Se",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.apps.setupwizard.searchselector",
+    "displayName": "Searchselector",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.overlay.gmsconfig.searchselector",
+    "displayName": "Searchselector",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.securityadd",
+    "displayName": "Securityadd",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.securitycenter",
+    "displayName": "Securitycenter",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.securitycore",
+    "displayName": "Securitycore",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.datachannel.service",
+    "displayName": "Service",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.mms.service",
+    "displayName": "Service",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.simactivate.service",
+    "displayName": "Service",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.atci.service",
+    "displayName": "Service",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.capctrl.service",
+    "displayName": "Service",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.smartratswitch.service",
+    "displayName": "Service",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.milink.service",
+    "displayName": "Service",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.ext.services",
+    "displayName": "Services",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.ondevicepersonalization.services",
+    "displayName": "Services",
+    "category": "google"
+  },
+  {
+    "packageName": "com.miui.core.internal.services",
+    "displayName": "Services",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.overlay.modules.ext.services",
+    "displayName": "Services",
+    "category": "google"
+  },
+  {
+    "packageName": "com.goodix.fingerprint.setting",
+    "displayName": "Setting",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.settings",
+    "displayName": "Settings",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.settings",
+    "displayName": "Settings",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.SettingsProviderResOverlay",
+    "displayName": "Settingsproviderresoverlay",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.google.android.setupwizard",
+    "displayName": "Setupwizard",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.ext.shared",
+    "displayName": "Shared",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.sharedstoragebackup",
+    "displayName": "Sharedstoragebackup",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.shell",
+    "displayName": "Shell",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.signature",
+    "displayName": "Signature",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.simappdialog",
+    "displayName": "Simappdialog",
+    "category": "other"
+  },
+  {
+    "packageName": "com.tencent.soter.soterserver",
+    "displayName": "Soterserver",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.soundpicker",
+    "displayName": "Soundpicker",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.statementservice",
+    "displayName": "Statementservice",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.stk",
+    "displayName": "Stk",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.storagemanager",
+    "displayName": "Storagemanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.ambient.streaming",
+    "displayName": "Streaming",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.gms.supervision",
+    "displayName": "Supervision",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.accessibility.switchaccess",
+    "displayName": "Switchaccess",
+    "category": "google"
+  },
+  {
+    "packageName": "com.facebook.system",
+    "displayName": "System",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.system",
+    "displayName": "System",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.overlay.systemui",
+    "displayName": "Systemui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.systemui",
+    "displayName": "Systemui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.apps.tag",
+    "displayName": "Tag",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.marvin.talkback",
+    "displayName": "Talkback",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.internal.display.cutout.emulation.tall",
+    "displayName": "Tall",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.server.telecom",
+    "displayName": "Telecom",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.mainline.telemetry",
+    "displayName": "Telemetry",
+    "category": "google"
+  },
+  {
+    "packageName": "android.aosp.overlay.telephony",
+    "displayName": "Telephony",
+    "category": "other"
+  },
+  {
+    "packageName": "android.miui.overlay.telephony",
+    "displayName": "Telephony",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.telephony",
+    "displayName": "Telephony",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.providers.telephony",
+    "displayName": "Telephony",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.virtualization.terminal",
+    "displayName": "Terminal",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.networkstack.tethering",
+    "displayName": "Tethering",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.thememanager",
+    "displayName": "Thememanager",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.thirdappassistant",
+    "displayName": "Thirdappassistant",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.internal.systemui.navbar.threebutton",
+    "displayName": "Threebutton",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.touchassistant",
+    "displayName": "Touchassistant",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.touchservice",
+    "displayName": "Touchservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.traceur",
+    "displayName": "Traceur",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.internal.systemui.navbar.transparent",
+    "displayName": "Transparent",
+    "category": "other"
+  },
+  {
+    "packageName": "com.xiaomi.trustservice",
+    "displayName": "Trustservice",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.google.android.tts",
+    "displayName": "Tts",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.ugd",
+    "displayName": "Ugd",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.providers.downloads.ui",
+    "displayName": "Ui",
+    "category": "other"
+  },
+  {
+    "packageName": "com.mediatek.miravision.ui",
+    "displayName": "Ui",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.lbs.em2.ui",
+    "displayName": "Ui",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.updater",
+    "displayName": "Updater",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.providers.userdictionary",
+    "displayName": "Userdictionary",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.vending",
+    "displayName": "Vending",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.videoplayer",
+    "displayName": "Videoplayer",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.aiasst.vision",
+    "displayName": "Vision",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.miui.phone.carriers.overlay.vodafone",
+    "displayName": "Vodafone",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.voicecommand",
+    "displayName": "Voicecommand",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.mediatek.voiceunlock",
+    "displayName": "Voiceunlock",
+    "category": "mediatek"
+  },
+  {
+    "packageName": "com.android.vpndialogs",
+    "displayName": "Vpndialogs",
+    "category": "other"
+  },
+  {
+    "packageName": "com.miui.vsimcore",
+    "displayName": "Vsimcore",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.android.wallpaperbackup",
+    "displayName": "Wallpaperbackup",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.wallpapercropper",
+    "displayName": "Wallpapercropper",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.internal.display.cutout.emulation.waterfall",
+    "displayName": "Waterfall",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.webview",
+    "displayName": "Webview",
+    "category": "google"
+  },
+  {
+    "packageName": "com.google.android.apps.wellbeing",
+    "displayName": "Wellbeing",
+    "category": "google"
+  },
+  {
+    "packageName": "com.android.hotwordenrollment.xgoogle",
+    "displayName": "Xgoogle",
+    "category": "other"
+  },
+  {
+    "packageName": "com.android.wifi.resources.xiaomi",
+    "displayName": "Xiaomi",
+    "category": "other"
+  },
+  {
+    "packageName": "com.google.android.wifi.resources.xiaomi",
+    "displayName": "Xiaomi",
+    "category": "google"
+  },
+  {
+    "packageName": "com.xiaomi.xmsf",
+    "displayName": "Xmsf",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.xiaomi.xmsfkeeper",
+    "displayName": "Xmsfkeeper",
+    "category": "xiaomi"
+  },
+  {
+    "packageName": "com.mediatek.ygps",
+    "displayName": "Ygps",
+    "category": "mediatek"
+  }
+]

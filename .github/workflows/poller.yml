@@ -1,0 +1,46 @@
+name: Poll Xiaomi App Updates
+
+on:
+  schedule:
+    # Daily at 04:00 UTC
+    - cron: "0 4 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poller
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run poller
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CATALOG_REPO: ${{ github.repository }}
+        run: python3 src/poller.py
+
+      - name: Commit catalog
+        if: always()
+        run: |
+          if [[ -n "$(git status --porcelain catalog.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add catalog.json
+            git commit -m "chore(catalog): update catalog.json"
+            git push
+          else
+            echo "catalog.json unchanged - nothing to commit"
+          fi
