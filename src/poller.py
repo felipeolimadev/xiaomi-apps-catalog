@@ -188,6 +188,12 @@ def release_tag(package: str, version_code: int) -> str:
     return f"{package}@{version_code}"
 
 
+def asset_name(package: str, version_code: int) -> str:
+    """Unique asset filename per app-version, e.g. com.mi.app-20250221.apk."""
+    pkg = package.replace(":", "_").replace("/", "_")
+    return f"{pkg}-v{version_code}.apk"
+
+
 def gh(*args: str) -> subprocess.CompletedProcess:
     return subprocess.run(["gh", *args], capture_output=True, text=True)
 
@@ -197,7 +203,7 @@ def release_exists(tag: str) -> bool:
     return r.returncode == 0
 
 
-def publish_release(tag: str, title: str, notes: str, asset_path: str) -> str:
+def publish_release(tag: str, title: str, notes: str, asset_path: str, asset: str) -> str:
     """Publish a GitHub Release for one app version. Returns the release URL."""
     notes_file = tempfile.NamedTemporaryFile("w", suffix=".md", delete=False, encoding="utf-8")
     notes_file.write(notes)
@@ -217,7 +223,7 @@ def publish_release(tag: str, title: str, notes: str, asset_path: str) -> str:
 
     os.unlink(notes_file.name)
 
-    r = gh("release", "upload", tag, asset_path, "--repo", CATALOG_REPO)
+    r = gh("release", "upload", tag, asset_path, "--repo", CATALOG_REPO, "--clobber")
     if r.returncode != 0 and "already exists" not in r.stderr:
         raise RuntimeError(f"gh release upload failed: {r.stderr}")
 
@@ -302,9 +308,11 @@ def main() -> int:
             apk = detail["download"]["apks"][0]
             apk_url = f"{detail['download']['host']}{apk['url']}"
             expected_md5 = apk.get("hash", "").lower()
+            tag = release_tag(pkg, vc)
+            asset = asset_name(pkg, vc)
 
             with tempfile.TemporaryDirectory() as tmp:
-                apk_path = os.path.join(tmp, "app.apk")
+                apk_path = os.path.join(tmp, asset)
                 print(f"[poller] downloading {pkg} v{vc} ({apk.get('size', 0)} bytes)...")
                 try:
                     download_file(apk_url, apk_path)
@@ -319,25 +327,25 @@ def main() -> int:
 
                 notes = f"## {upd.get('displayName', pkg)}\n\n- Package: `{pkg}`\n- Version: {upd.get('versionName')} (vc {vc})\n- Size: {apk.get('size', 0):,} bytes\n- MD5: `{actual_md5}`\n\n{upd.get('changeLog') or ''}\n\n---\n\n*Published automatically by the Xiaomi App Catalog poller.*"
 
-                tag = release_tag(pkg, vc)
                 release_url = publish_release(
                     tag,
                     f"{upd.get('displayName', pkg)} v{upd.get('versionName', vc)}",
                     notes,
                     apk_path,
+                    asset,
                 )
 
-            mark_version_as_released(
-                entry,
-                {
-                    "versionCode": vc,
-                    "versionName": upd.get("versionName"),
-                    "apkSize": apk.get("size", 0),
-                    "md5": actual_md5,
-                    "releaseUrl": release_url,
-                    "publishedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-                },
-            )
+                mark_version_as_released(
+                    entry,
+                    {
+                        "versionCode": vc,
+                        "versionName": upd.get("versionName"),
+                        "apkSize": apk.get("size", 0),
+                        "md5": actual_md5,
+                        "releaseUrl": f"https://github.com/{CATALOG_REPO}/releases/download/{tag}/{asset}",
+                        "publishedAt": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+                    },
+                )
             newly_published += 1
             print(f"[poller] PUBLISHED {pkg} v{vc} -> {release_url}")
 

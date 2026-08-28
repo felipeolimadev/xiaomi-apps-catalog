@@ -1,0 +1,21 @@
+{
+  "apps": {
+    "com.mi.android.globalFileexplorer": {
+      "category": "xiaomi",
+      "displayName": "Gerenciador de Arquivos",
+      "icon": "https://fgb0.market.xiaomi.com/download/AppStore/0ce225f930da3e964903b49ace7cc034d9540c338",
+      "packageName": "com.mi.android.globalFileexplorer",
+      "versions": [
+        {
+          "apkSize": 30837507,
+          "md5": "d37df386a20031f4b6b80feab76fd8fa",
+          "publishedAt": "2026-08-28T17:38:04Z",
+          "releaseUrl": "https://github.com/felipeolimadev/xiaomi-apps-catalog/releases/download/com.mi.android.globalFileexplorer@20250221/com.mi.android.globalFileexplorer-v20250221.apk",
+          "versionCode": 20250221,
+          "versionName": "V1-250221"
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-08-28T17:38:05Z"
+}
